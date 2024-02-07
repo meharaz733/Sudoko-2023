@@ -1,0 +1,13 @@
+StartGame {
+    background-color: green;
+    color: black;
+}
+ 
+inputNumber{
+    background-color: mistyrose;
+}
+
+
+inputNumber:hover{
+   background-color: black;
+}
