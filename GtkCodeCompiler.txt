@@ -1,1 +1,1 @@
-g++ `pkg-config --cflags gtk+-3.0` -o stratgtk stratgtk.cpp `pkg-config --libs gtk+-3.0`
+g++ `pkg-config --cflags gtk+-3.0` -o sdp2 sdp2.cpp `pkg-config --libs gtk+-3.0`
